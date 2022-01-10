@@ -1,2 +1,2 @@
 # ecommerce_test
-Litle Challenge E-commerce DRF
+Litle ecommerce project using DRF

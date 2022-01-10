@@ -1,0 +1,4 @@
+djangorestframework_simplejwt==4.7.2
+djangorestframework
+django
+gunicorn==19.7.1
